@@ -1,0 +1,32 @@
+Question 1 :
+ ## What is Blockchain ##
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
+A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
+Each block in the chain contains a number of transactions, and every time a new transaction occurs on the blockchain, 
+a record of that transaction is added to every participant’s ledger.
+The decentralised database managed by multiple participants is known as Distributed Ledger Technology (DLT).
+
+Question 2 :
+## Core Problem Blockchain trying to solve ##
+1. Blockchain Addresses The Problem Of Data Loss Due To Hardware Or Connectivity Issues
+2. Blockchain Addresses The Problem Of Data Corruption Due To Intermittent Hardware Or Connectivity Issues
+3. Blockchain Addresses The Problem Of Data Security And Trust By Making The Ledger Public
+
+Question 3 :
+## Features of Blockchain ##
+1. Blockchain Addresses The Problem Of Data Security And Trust By Making The Ledger Public
+2. Decentralized Technology
+3. Enhanced Security
+4. Distributed Ledgers
+
+Question 4 :
+## What things a block contain ##
+A block represents the 'present' and contains information about its past and future.
+Each time a block is completed it becomes part of the past and gives way to a new block in the blockchain. 
+The completed block is a permanent record of transactions in the past and the new transactions are recorded in the current one.
+
+##Question 5 :
+##Verifiability of Blockchain ##
+Validated transactions are stored into a block and are sealt with a lock (hash).
+This block becomes part of the blockchain when other computers in the network validate if the lock on the block is correct.
+Now the transaction is part of the blockchain and can not be altered in any way.
